@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.10
   - coiled-runtime=0.2.0
+  - requests-html
   - pip
   - pip:
     - pyarrow==10.0.0
