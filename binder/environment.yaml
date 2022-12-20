@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.10
   - coiled-runtime=0.2.1
+  - matplotlib=3.6.2
   - pip
   - pip:
     - dask==2022.12.0
