@@ -26,3 +26,52 @@ In this lesson, we’ll learn some best practices around working with larger-tha
 By the end, we’ll learn the advantages of working with the Parquet file format and how to efficiently perform an exploratory analysis with Dask.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Setup 
+
+We have two options for you to follow this tutorial:
+
+### Run locally
+
+If you are joining for a live session please make sure you do the setup in advance, and be ready to go once the session starts.
+
+1. **Clone this repository**
+    In your terminal:
+
+    ```
+    git clone https://github.com/coiled/dask-tutorial.git
+    cd dask-tutorial
+    ```
+    Alternatively, you can download the zip file of the repository at the top of the main page of the repository. This is a good option if you don't have experience with git.
+
+2. **Create Conda Environment**
+
+    In your terminal navigate to the directory where you have cloned/downloaded the `dask-tutorial` repository and install the required packages:
+
+    ```
+    conda env create -f binder/environment.yml
+    ```
+
+    This will create a new environment called `dask-tutorial`. To activate the environment do:
+
+    ```
+    conda activate dask-tutorial
+    ```
+
+4. **Open Jupyter Lab**
+
+    Once your environment has been activated and you are in the `dask-tutorial` repository, in your terminal do:
+
+    ```
+    jupyter lab
+    ```
+
+    You will see a notebooks directory, click on there and you will be ready to go.
+
+
+### Run on a cloud notebook
+
+Click on this button [![Binder](https://mybinder.org/badge_logo.svg)]() to run in a pre-configured cloud environment.
+
+If you are joining the live session, please click on the button few minutes before we start so we are ready to go.
+
