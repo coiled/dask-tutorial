@@ -1,4 +1,5 @@
-## Dask Tutorial by Coiled
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/dask-tutorial/HEAD) 
+## Dask Tutorial by Coiled 
 
 Hands-on 1 hour sessions to learn how to scale workflows using Dask and Coiled. Each session is independent of the others, so you can choose the ones you want or come to all of them. 
 
