@@ -71,7 +71,7 @@ If you are joining for a live session please make sure you do the setup in advan
 
 ### Run on a cloud notebook
 
-Click on this button [![Binder](https://mybinder.org/badge_logo.svg)]() to run in a pre-configured cloud environment.
+Click on this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/dask-tutorial/HEAD) to run in a pre-configured cloud environment.
 
 If you are joining the live session, please click on the button few minutes before we start so we are ready to go.
 
