@@ -1,4 +1,4 @@
-name: dask-tutorial-TEST
+name: dask-tutorial
 channels:
   - conda-forge
 dependencies:
