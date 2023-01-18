@@ -7,7 +7,7 @@ dependencies:
   - distributed==2022.12.1
   - numpy==1.23.5
   - pandas==1.5.2
-  - coiled>=0.2.54
+  - coiled==0.2.59
   - pyarrow==10.0.1
   - ipykernel
   - dask-labextension==6.0
