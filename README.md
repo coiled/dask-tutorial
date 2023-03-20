@@ -3,6 +3,7 @@
 
 Hands-on 1 hour sessions to learn how to scale workflows using Dask and Coiled. Each session is independent of the others, so you can choose the ones you want or come to all of them. 
 
+#### Sign up for the next live session https://www.coiled.io/tutorials
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Parallelize your Python Code: Futures API
