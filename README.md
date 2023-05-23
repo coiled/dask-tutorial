@@ -70,8 +70,15 @@ If you are joining for a live session please make sure you do the setup in advan
 
     You will see a notebooks directory, click on there and you will be ready to go.
 
+### Use Coiled notebooks
 
-### Run on a cloud notebook
+```
+$ pip install coiled jupyter
+$ coiled login --token ### --account dask-tutorials
+$ coiled notebook up --software dask-tutorials
+```
+
+### Run on binder
 
 Click on this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/dask-tutorial/HEAD) to run in a pre-configured cloud environment.
 
