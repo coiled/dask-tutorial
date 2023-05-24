@@ -16,3 +16,4 @@ dependencies:
   - python-graphviz==0.20.1 
   - beautifulsoup4==4.11.1
   - matplotlib==3.6.2
+  - gilknocker==0.4.1
