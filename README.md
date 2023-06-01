@@ -75,7 +75,7 @@ If you are joining for a live session please make sure you do the setup in advan
 ```
 pip install coiled jupyter
 coiled login --token ### --account dask-tutorials
-coiled notebook up --software dask-tutorials
+coiled notebook start --software dask-tutorials
 ```
 
 ### Run on binder
