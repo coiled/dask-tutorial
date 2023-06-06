@@ -5,6 +5,7 @@ dependencies:
   - python==3.10
   - dask==2023.5.0
   - distributed==2023.5.0
+  - coiled==0.7.1
   - numpy==1.23.5
   - pandas==2.0.1
   - pyarrow==10.0.1
@@ -16,6 +17,3 @@ dependencies:
   - beautifulsoup4==4.11.1
   - matplotlib==3.6.2
   - gilknocker==0.4.1
-  - pip
-  - pip:
-    - coiled==0.7.1
