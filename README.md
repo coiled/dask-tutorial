@@ -6,7 +6,8 @@ Hands-on 1 hour sessions to learn how to scale workflows using Dask and Coiled. 
 #### Sign up for the next live session https://www.coiled.io/tutorials
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Parallelize your Python Code: Futures API [Youtube Recording](https://www.youtube.com/watch?v=32w33L7hseQ)
+### Parallelize your Python Code: Futures API 
+[Youtube Recording](https://www.youtube.com/watch?v=32w33L7hseQ)
 
 In this lesson, we’ll parallelize a custom Python workflow that scrapes, parses, and cleans data from Stack Overflow. We’ll get to:
 ‍
@@ -17,7 +18,8 @@ By the end, we’ll see how much faster this workflow is using Dask and how the 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Get Better at Dask Dataframes [Youtube Recording](https://www.youtube.com/watch?v=8bd7DswSxw4)
+### Get Better at Dask Dataframes 
+[Youtube Recording](https://www.youtube.com/watch?v=8bd7DswSxw4)
 
 In this lesson, we’ll learn some best practices around working with larger-than-memory datasets. We’ll use the Uber/Lyft dataset to:
 ‍
